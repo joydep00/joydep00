@@ -1,0 +1,43 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.ap_
+*.aab
+
+# Local configuration file
+local.properties
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ide
+
+# Android Studio specific
+captures/
+.externalNativeBuild
+.cxx/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Firebase
+google-services.json
+
+# Keystore files
+*.jks
+*.keystore
+
+# Log files
+*.log
+
+# Binaries
+*.dex
+*.class
+
+# LLVM Coverage Data
+*.profraw
+*.profdata
